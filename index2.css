@@ -1,0 +1,59 @@
+.primary-header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  color: #CCC;
+  background: #333;
+  padding: 7vh;
+}
+
+.text {
+  position: absolute;
+  top: 10vh;
+  left: 2vh;
+}
+
+.images {
+  padding: 15px;
+  height: 15vh;
+  width: 15vh;
+}
+
+.scrolling-wrapper {
+  display: flex;
+  float: left;
+  overflow-y: scroll;
+  width: 90%;
+  margin:15vh 0vh 0vh 10vh;
+}
+
+.info-box {
+  border: 1px solid black;
+  height: 30vh;
+  width: 70vw;
+}
+
+.outer {
+  margin: 40vh 0vh 0vh 30vh;
+}
+.button{
+  background-color:#696969;
+  color: white;
+  width: 10vw;
+  margin:10px 0px 0px 0px;
+}
+.s-image{
+  width:60%;
+  height:20%;
+}
+
+.end {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  color: #CCC;
+  background: #333;
+  padding: 3vh;
+}
